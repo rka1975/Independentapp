@@ -1,0 +1,39 @@
+body
+{
+    font-family: 'Times New Roman', Times, serif;
+    background: rgb(185, 172, 170);
+}
+
+.header_div
+{
+    background:rgb(238, 163, 101);
+    color: rgb(248, 16, 16);
+}
+
+.header_div p{
+    font-family: cursive;
+    color: rgb(241, 28, 28);
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.main_div button{
+    font-family: fantasy;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+
+.copy_right_footer{
+    position: fixed;
+    color: rgb(248, 16, 16);
+    bottom: 0;
+    width:100%;
+    font-size:18px;
+    background-color: rgb(238, 163, 101);
+    line-height:3;
+    text-align:center;
+    text-shadow: 5px 5px 5px gray;
+}
